@@ -1,4 +1,4 @@
-# ruoyi_demo
+# study_2
 
 ## Project setup
 ```
